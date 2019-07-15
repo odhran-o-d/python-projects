@@ -1,0 +1,369 @@
+"1,115",Chief executives and senior officials
+"1,116",Elected officers and representatives
+"1,121",Production managers and directors in manufacturing
+"1,122",Production managers and directors in construction
+"1,123",Production managers and directors in mining and energy
+"1,131",Financial managers and directors
+"1,132",Marketing and sales directors
+"1,133",Purchasing managers and directors
+"1,134",Advertising and public relations directors
+"1,135",Human resource managers and directors
+"1,136",Information technology and telecommunications directors
+"1,139",Functional managers and directors n.e.c.
+"1,150",Financial institution managers and directors
+"1,161",Managers and directors in transport and distribution
+"1,162",Managers and directors in storage and warehousing
+"1,171",Officers in armed forces
+"1,172",Senior police officers
+"1,173","Senior officers in fire, ambulance, prison and related services"
+"1,181",Health services and public health managers and directors
+"1,184",Social services managers and directors
+"1,190",Managers and directors in retail and wholesale
+"1,211",Managers and proprietors in agriculture and horticulture
+"1,213","Managers and proprietors in forestry, fishing and related services"
+"1,221",Hotel and accommodation managers and proprietors
+"1,223",Restaurant and catering establishment managers and proprietors
+"1,224",Publicans and managers of licensed premises
+"1,225",Leisure and sports managers
+"1,226",Travel agency managers and proprietors
+"1,241",Health care practice managers
+"1,242","Residential, day and domiciliary care managers and proprietors"
+"1,251","Property, housing and estate managers"
+"1,252",Garage managers and proprietors
+"1,253",Hairdressing and beauty salon managers and proprietors
+"1,254",Shopkeepers and proprietors – wholesale and retail
+"1,255",Waste disposal and environmental services managers
+"1,259",Managers and proprietors in other services n.e.c.
+"2,111",Chemical scientists
+"2,112",Biological scientists and biochemists
+"2,113",Physical scientists
+"2,114",Social and humanities scientists
+"2,119",Natural and social science professionals n.e.c.
+"2,121",Civil engineers
+"2,122",Mechanical engineers
+"2,123",Electrical engineers
+"2,124",Electronics engineers
+"2,126",Design and development engineers
+"2,127",Production and process engineers
+"2,129",Engineering professionals n.e.c.
+"2,133",IT specialist managers
+"2,134",IT project and programme managers
+"2,135","IT business analysts, architects and systems designers"
+"2,136",Programmers and software development professionals
+"2,137",Web design and development professionals
+"2,139",Information technology and telecommunications professionals n.e.c.
+"2,141",Conservation professionals
+"2,142",Environment professionals
+"2,150",Research and development managers
+"2,211",Medical practitioners
+"2,212",Psychologists
+"2,213",Pharmacists
+"2,214",Ophthalmic opticians
+"2,215",Dental practitioners
+"2,216",Veterinarians
+"2,217",Medical radiographers
+"2,218",Podiatrists
+"2,219",Health professionals n.e.c.
+"2,221",Physiotherapists
+"2,222",Occupational therapists
+"2,223",Speech and language therapists
+"2,229",Therapy professionals n.e.c.
+"2,231",Nurses
+"2,232",Midwives
+"2,311",Higher education teaching professionals
+"2,312",Further education teaching professionals
+"2,314",Secondary education teaching professionals
+"2,315",Primary and nursery education teaching professionals
+"2,316",Special needs education teaching professionals
+"2,317",Senior professionals of educational establishments
+"2,318",Education advisers and school inspectors
+"2,319",Teaching and other educational professionals n.e.c.
+"2,412",Barristers and judges
+"2,413",Solicitors
+"2,419",Legal professionals n.e.c.
+"2,421",Chartered and certified accountants
+"2,423",Management consultants and business analysts
+"2,424",Business and financial project management professionals
+"2,425","Actuaries, economists and statisticians"
+"2,426",Business and related research professionals
+"2,429","Business, research and administrative professionals n.e.c."
+"2,431",Architects
+"2,432",Town planning officers
+"2,433",Quantity surveyors
+"2,434",Chartered surveyors
+"2,435",Chartered architectural technologists
+"2,436",Construction project managers and related professionals
+"2,442",Social workers
+"2,443",Probation officers
+"2,444",Clergy
+"2,449",Welfare professionals n.e.c.
+"2,451",Librarians
+"2,452",Archivists and curators
+"2,461",Quality control and planning engineers
+"2,462",Quality assurance and regulatory professionals
+"2,463",Environmental health professionals
+"2,471","Journalists, newspaper and periodical editors"
+"2,472",Public relations professionals
+"2,473",Advertising accounts managers and creative directors
+"3,111",Laboratory technicians
+"3,112",Electrical and electronics technicians
+"3,113",Engineering technicians
+"3,114",Building and civil engineering technicians
+"3,115",Quality assurance technicians
+"3,116","Planning, process and production technicians"
+"3,119","Science, engineering and production technicians n.e.c."
+"3,121",Architectural and town planning technicians
+"3,122",Draughtspersons
+"3,131",IT operations technicians
+"3,132",IT user support technicians
+"3,213",Paramedics
+"3,216",Dispensing opticians
+"3,217",Pharmaceutical technicians
+"3,218",Medical and dental technicians
+"3,219",Health associate professionals n.e.c.
+"3,231",Youth and community workers
+"3,233",Child and early years officers
+"3,234",Housing officers
+"3,235",Counsellors
+"3,239",Welfare and housing associate professionals n.e.c.
+"3,311",NCOs and other ranks
+"3,312",Police officers (sergeant and below)
+"3,313",Fire service officers (watch manager and below)
+"3,314",Prison service officers (below principal officer)
+"3,315",Police community support officers
+"3,319",Protective service associate professionals n.e.c.
+"3,411",Artists
+"3,412","Authors, writers and translators"
+"3,413","Actors, entertainers and presenters"
+"3,414",Dancers and choreographers
+"3,415",Musicians
+"3,416","Arts officers, producers and directors"
+"3,417","Photographers, audio-visual and broadcasting equipment operators"
+"3,421",Graphic designers
+"3,422","Product, clothing and related designers"
+"3,441",Sports players
+"3,442","Sports coaches, instructors and officials"
+"3,443",Fitness instructors
+"3,511",Air traffic controllers
+"3,512",Aircraft pilots and flight engineers
+"3,513",Ship and hovercraft officers
+"3,520",Legal associate professionals
+"3,531","Estimators, valuers and assessors"
+"3,532",Brokers
+"3,533",Insurance underwriters
+"3,534",Finance and investment analysts and advisers
+"3,535",Taxation experts
+"3,536",Importers and exporters
+"3,537",Financial and accounting technicians
+"3,538",Financial accounts managers
+"3,539",Business and related associate professionals n.e.c.
+"3,541",Buyers and procurement officers
+"3,542",Business sales executives
+"3,543",Marketing associate professionals
+"3,544",Estate agents and auctioneers
+"3,545",Sales accounts and business development managers
+"3,546",Conference and exhibition managers and organisers
+"3,550",Conservation and environmental associate professionals
+"3,561",Public services associate professionals
+"3,562",Human resources and industrial relations officers
+"3,563",Vocational and industrial trainers and instructors
+"3,564",Careers advisers and vocational guidance specialists
+"3,565",Inspectors of standards and regulations
+"3,567",Health and safety officers
+"4,112",National government administrative occupations
+"4,113",Local government administrative occupations
+"4,114",Officers of non-governmental organisations
+"4,121",Credit controllers
+"4,122","Book-keepers, payroll managers and wages clerks"
+"4,123",Bank and post office clerks
+"4,124",Finance officers
+"4,129",Financial administrative occupations n.e.c.
+"4,131",Records clerks and assistants
+"4,132",Pensions and insurance clerks and assistants
+"4,133",Stock control clerks and assistants
+"4,134",Transport and distribution clerks and assistants
+"4,135",Library clerks and assistants
+"4,138",Human resources administrative occupations
+"4,151",Sales administrators
+"4,159",Other administrative occupations n.e.c.
+"4,161",Office managers
+"4,162",Office supervisors
+"4,211",Medical secretaries
+"4,212",Legal secretaries
+"4,213",School secretaries
+"4,214",Company secretaries
+"4,215",Personal assistants and other secretaries
+"4,216",Receptionists
+"4,217",Typists and related keyboard occupations
+"5,111",Farmers
+"5,112",Horticultural trades
+"5,113",Gardeners and landscape gardeners
+"5,114",Groundsmen and greenkeepers
+"5,119",Agricultural and fishing trades n.e.c.
+"5,211",Smiths and forge workers
+"5,212","Moulders, core makers and die casters"
+"5,213",Sheet metal workers
+"5,214","Metal plate workers, and riveters"
+"5,215",Welding trades
+"5,216",Pipe fitters
+"5,221",Metal machining setters and setter-operators
+"5,222","Tool makers, tool fitters and markers-out"
+"5,223",Metal working production and maintenance fitters
+"5,224",Precision instrument makers and repairers
+"5,225",Air-conditioning and refrigeration engineers
+"5,231","Vehicle technicians, mechanics and electricians"
+"5,232",Vehicle body builders and repairers
+"5,234",Vehicle paint technicians
+"5,235",Aircraft maintenance and related trades
+"5,236",Boat and ship builders and repairers
+"5,237",Rail and rolling stock builders and repairers
+"5,241",Electricians and electrical fitters
+"5,242",Telecommunications engineers
+"5,244","TV, video and audio engineers"
+"5,245",IT engineers
+"5,249",Electrical and electronic trades n.e.c.
+"5,250","Skilled metal, electrical and electronic trades supervisors"
+"5,311",Steel erectors
+"5,312",Bricklayers and masons
+"5,313","Roofers, roof tilers and slaters"
+"5,314",Plumbers and heating and ventilating engineers
+"5,315",Carpenters and joiners
+"5,316","Glaziers, window fabricators and fitters"
+"5,319",Construction and building trades n.e.c.
+"5,321",Plasterers
+"5,322",Floorers and wall tilers
+"5,323",Painters and decorators
+"5,330",Construction and building trades supervisors
+"5,411",Weavers and knitters
+"5,412",Upholsterers
+"5,413",Footwear and leather working trades
+"5,414",Tailors and dressmakers
+"5,419","Textiles, garments and related trades n.e.c."
+"5,421",Pre-press technicians
+"5,422",Printers
+"5,423",Print finishing and binding workers
+"5,431",Butchers
+"5,432",Bakers and flour confectioners
+"5,433",Fishmongers and poultry dressers
+"5,434",Chefs
+"5,435",Cooks
+"5,436",Catering and bar managers
+"5,441","Glass and ceramics makers, decorators and finishers"
+"5,442",Furniture makers and other craft woodworkers
+"5,443",Florists
+"5,449",Other skilled trades n.e.c.
+"6,121",Nursery nurses and assistants
+"6,122",Childminders and related occupations
+"6,123",Playworkers
+"6,125",Teaching assistants
+"6,126",Educational support assistants
+"6,131",Veterinary nurses
+"6,132",Pest control officers
+"6,139",Animal care services occupations n.e.c.
+"6,141",Nursing auxiliaries and assistants
+"6,142",Ambulance staff (excluding paramedics)
+"6,143",Dental nurses
+"6,144",Houseparents and residential wardens
+"6,145",Care workers and home carers
+"6,146",Senior care workers
+"6,147",Care escorts
+"6,148","Undertakers, mortuary and crematorium assistants"
+"6,211",Sports and leisure assistants
+"6,212",Travel agents
+"6,214",Air travel assistants
+"6,215",Rail travel assistants
+"6,219",Leisure and travel service occupations n.e.c.
+"6,221",Hairdressers and barbers
+"6,222",Beauticians and related occupations
+"6,231",Housekeepers and related occupations
+"6,232",Caretakers
+"6,240",Cleaning and housekeeping managers and supervisors
+"7,111",Sales and retail assistants
+"7,112",Retail cashiers and check-out operators
+"7,113",Telephone salespersons
+"7,114",Pharmacy and other dispensing assistants
+"7,115",Vehicle and parts salespersons and advisers
+"7,121",Collector salespersons and credit agents
+"7,122","Debt, rent and other cash collectors"
+"7,123",Roundspersons and van salespersons
+"7,124",Market and street traders and assistants
+"7,125",Merchandisers and window dressers
+"7,129",Sales related occupations n.e.c.
+"7,130",Sales supervisors
+"7,211",Call and contact centre occupations
+"7,213",Telephonists
+"7,214",Communication operators
+"7,215",Market research interviewers
+"7,219",Customer service occupations n.e.c.
+"7,220",Customer service managers and supervisors
+"8,111","Food, drink and tobacco process operatives"
+"8,112",Glass and ceramics process operatives
+"8,113",Textile process operatives
+"8,114",Chemical and related process operatives
+"8,115",Rubber process operatives
+"8,116",Plastics process operatives
+"8,117",Metal making and treating process operatives
+"8,118",Electroplaters
+"8,119",Process operatives n.e.c.
+"8,121",Paper and wood machine operatives
+"8,122",Coal mine operatives
+"8,123",Quarry workers and related operatives
+"8,124",Energy plant operatives
+"8,125",Metal working machine operatives
+"8,126",Water and sewerage plant operatives
+"8,127",Printing machine assistants
+"8,129",Plant and machine operatives n.e.c.
+"8,131",Assemblers (electrical and electronic products)
+"8,132",Assemblers (vehicles and metal goods)
+"8,133",Routine inspectors and testers
+"8,134","Weighers, graders and sorters"
+"8,135","Tyre, exhaust and windscreen fitters"
+"8,137",Sewing machinists
+"8,139",Assemblers and routine operatives n.e.c.
+"8,141","Scaffolders, stagers and riggers"
+"8,142",Road construction operatives
+"8,143",Rail construction and maintenance operatives
+"8,149",Construction operatives n.e.c.
+"8,211",Large goods vehicle drivers
+"8,212",Van drivers
+"8,213",Bus and coach drivers
+"8,214",Taxi and cab drivers and chauffeurs
+"8,215",Driving instructors
+"8,221",Crane drivers
+"8,222",Fork-lift truck drivers
+"8,223",Agricultural machinery drivers
+"8,229",Mobile machine drivers and operatives n.e.c.
+"8,231",Train and tram drivers
+"8,232",Marine and waterways transport operatives
+"8,233",Air transport operatives
+"8,234",Rail transport operatives
+"8,239",Other drivers and transport operatives n.e.c.
+"9,111",Farm workers
+"9,112",Forestry workers
+"9,119",Fishing and other elementary agriculture occupations n.e.c.
+"9,120",Elementary construction occupations
+"9,132",Industrial cleaning process occupations
+"9,134","Packers, bottlers, canners and fillers"
+"9,139",Elementary process plant occupations n.e.c.
+"9,211","Postal workers, mail sorters, messengers and couriers"
+"9,219",Elementary administration occupations n.e.c.
+"9,231",Window cleaners
+"9,232",Street cleaners
+"9,233",Cleaners and domestics
+"9,234","Launderers, dry cleaners and pressers"
+"9,235",Refuse and salvage occupations
+"9,236",Vehicle valeters and cleaners
+"9,239",Elementary cleaning occupations n.e.c.
+"9,241",Security guards and related occupations
+"9,242",Parking and civil enforcement occupations
+"9,244",School midday and crossing patrol occupations
+"9,249",Elementary security occupations n.e.c.
+"9,251",Shelf fillers
+"9,259",Elementary sales occupations n.e.c.
+"9,260",Elementary storage occupations
+"9,271",Hospital porters
+"9,272",Kitchen and catering assistants
+"9,273",Waiters and waitresses
+"9,274",Bar staff
+"9,275",Leisure and theme park attendants
+"9,279",Other elementary services occupations n.e.c.
